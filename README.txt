@@ -1,0 +1,1 @@
+I start by creating a main base with a header, a nav, a search and a footer.
